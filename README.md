@@ -96,6 +96,9 @@ This strongly indicates **email spoofing or unauthorized sending infrastructure*
 
 Threat intelligence sources classify this host as **malware distribution infrastructure**.
 
+
+![Architecture Diagram](ev4.jpg)
+
 Associated malware families:
 
 ```
@@ -128,7 +131,10 @@ This suggests the infrastructure may be used for **multi-payload malware campaig
 
 ---
 
-# 🧪 Malware Analysis
+#  Malware Analysis
+
+![Architecture Diagram](ev5.jpg)
+
 
 ### Sample Type
 
@@ -136,12 +142,17 @@ This suggests the infrastructure may be used for **multi-payload malware campaig
 Executable (.exe)
 ```
 
+
+
 ### SHA256
 
 ```
 bf76286895c2df7a3020034a065397592a1f8850e59f9a448b555bc1c8c639539
 ```
 
+
+![Architecture Diagram](ev6.jpg)
+  
 ### Detection Rate
 
 ```
