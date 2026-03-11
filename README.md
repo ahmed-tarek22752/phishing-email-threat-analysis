@@ -19,6 +19,10 @@ The investigation covers:
 
 ---
 
+![Architecture Diagram](ev1.jpg)
+
+
+
 # 🧾 Phishing Email
 
 **Subject**
