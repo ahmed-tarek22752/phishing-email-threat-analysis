@@ -1,8 +1,8 @@
- # 🚨 Phishing Email Malware Campaign Analysis
+ #  Phishing Email Malware Campaign Analysis
 
 ### BitRAT / AsyncRAT Malware Delivery via Fake Commercial Receipt
 
-## 📌 Overview
+##  Overview
 
 This repository documents the technical analysis of a **phishing email campaign delivering a malicious executable payload** disguised as a commercial purchase receipt.
 
@@ -44,6 +44,13 @@ erikajohana.lopez@uptc.edu.co
 Your purchase Ref. 00034959 for the amount of $625.000 pesos has been successfully completed.
 The invoice document is attached for confirmation.
 ```
+
+
+
+![Architecture Diagram](ev2.jpg)
+
+
+![Architecture Diagram](ev3.jpg)
 
 **Malicious Download**
 
