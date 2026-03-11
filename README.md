@@ -170,7 +170,7 @@ Malware Loader
 
 ---
 
-# 🔬 Sandbox Behavioral Analysis
+#  Sandbox Behavioral Analysis
 
 Dynamic analysis reveals malicious behaviors including:
 
@@ -195,7 +195,7 @@ The sample shows strong indicators of **RAT deployment behavior**.
 
 ---
 
-# ⚔️ Attack Chain
+#  Attack Chain
 
 ```
 Phishing Email
@@ -215,7 +215,7 @@ BitRAT / AsyncRAT Infection
 
 ---
 
-# 🎯 Indicators of Compromise
+#  Indicators of Compromise
 
 ## IP Addresses
 
@@ -238,7 +238,7 @@ bf76286895c2df7a3020034a065397592a1f8850e59f9a448b555bc1c8c639539
 
 ---
 
-# 🧬 MITRE ATT&CK Mapping
+#  MITRE ATT&CK Mapping
 
 | Technique | Description       |
 | --------- | ----------------- |
@@ -251,7 +251,7 @@ bf76286895c2df7a3020034a065397592a1f8850e59f9a448b555bc1c8c639539
 
 ---
 
-# 📊 Security Impact
+# Security Impact
 
 This campaign demonstrates how attackers combine:
 
@@ -271,8 +271,3 @@ Organizations should deploy:
 
 ---
 
-# ⚠️ Disclaimer
-
-This repository is provided for **cybersecurity research and educational purposes only**.
-
-The malware samples and infrastructure referenced here must **not be executed outside controlled analysis environments**.
