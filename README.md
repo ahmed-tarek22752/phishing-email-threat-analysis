@@ -1,4 +1,4 @@
- #  Phishing Email Malware Campaign Analysis
+ #  Phishing Email Malware Analysis
 
 ### BitRAT / AsyncRAT Malware Delivery via Fake Commercial Receipt
 
