@@ -152,14 +152,17 @@ bf76286895c2df7a3020034a065397592a1f8850e59f9a448b555bc1c8c639539
 ![Architecture Diagram](ev6.jpg)
 
 
-![Architecture Diagram](ev7.jpg)
-
   
 ### Detection Rate
 
 ```
 51 / 72 security vendors detected the sample as malicious
 ```
+
+
+![Architecture Diagram](ev7.jpg)
+
+
 
 Common classifications:
 
