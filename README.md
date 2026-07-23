@@ -272,7 +272,7 @@ Organizations should deploy:
 * email authentication enforcement
 * attachment sandboxing
 * malicious URL filtering
-* endpoint detection systems
+* endpoint detection systems.
 
 ---
 
