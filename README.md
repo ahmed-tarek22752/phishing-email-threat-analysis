@@ -8,7 +8,7 @@ This repository documents the technical analysis of a **phishing email campaign 
 
 The attack uses **social engineering combined with malware delivery infrastructure** to infect victims with **BitRAT / AsyncRAT remote access malware**.
 
-The investigation covers:
+- The investigation covers:
 
 * Email header forensics
 * Authentication analysis (SPF / DKIM / DMARC)
