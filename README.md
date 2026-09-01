@@ -142,7 +142,7 @@ Executable (.exe)
 
 
 
-### SHA256
+### SHA256 
 
 ```
 bf76286895c2df7a3020034a065397592a1f8850e59f9a448b555bc1c8c639539
@@ -275,4 +275,4 @@ Organizations should deploy:
 * endpoint detection systems.
 
 ---
-
+<h2> Documedted by Ahmed TareK Salah (thaqib)</h2>
