@@ -275,4 +275,4 @@ Organizations should deploy:
 * endpoint detection systems.
 
 ---
-<h2> Documedted by Ahmed TareK Salah (thaqib)</h2>
+<h2> Documedted by Ahmed TareK Salah </h2>
